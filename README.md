@@ -1,12 +1,12 @@
 
-This is a complete solution to coding exercises in coursera crash python course by google
+# DISCLAIMER
 
-The questions are as presented in the  exactly course
+- This is the complete solution to coding exercises in `google crash on python` on coursera 
 
-The purpose of this work is not to encourage lazziness but to serve as a guide
+- The questions are as presented exactly in the course without any modification
 
-It is better attempts are made first before checking the solution, in case of difficulty
+- The purpose of this work is not to encourage lazziness but to **serve as a guide**
 
-This should br the last point of contact
+- It is, therefore, better that attempts are made before checking the solutions. That is, **this should be the last point of contact.**
 
 
