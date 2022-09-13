@@ -47,4 +47,4 @@ This repository contains solutions to **coding exercises** as notebooks prepared
     - [x] Final Project: WordCloud
 
 ## Access on   
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/google-crash-course-on-python-public)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/google-crash-course-on-python)
