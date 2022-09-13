@@ -2,7 +2,7 @@
     <img src="https://seeklogo.net/wp-content/uploads/2020/12/python-logo.png" alt="python logo" valign="middle" height="60px"> Coursera: Crash Course on Python
 </h1>
 
-This repository contains all the solution **coding exercises ** as notebook of the course assessments done by me.
+This repository contains solutions to **coding exercises** as notebooks prepared by me.
 
 :mailbox_with_mail: 
 - All the codes were tested and passed on coursera.
@@ -46,5 +46,5 @@ This repository contains all the solution **coding exercises ** as notebook of t
     - [x] Practice Notebook - Putting It All Together
     - [x] Final Project: WordCloud
 
-
-
+## Access on   
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/google-crash-course-on-python-public)
